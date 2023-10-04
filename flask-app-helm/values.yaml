@@ -1,7 +1,7 @@
 replicaCount: 3
 
 image:
-  repository: eon01/stateless-flask:v0
+  repository: eon01/stateless-flask
   tag: latest
 
 service:
